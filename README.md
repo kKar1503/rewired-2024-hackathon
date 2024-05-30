@@ -1,1 +1,1 @@
-# rewired-2024-hackathon
+# Rewired 2024 Hackathon Collection
